@@ -203,10 +203,10 @@
         "sunExposure": "Full Sun",
         "soilType": "Loamy, Sandy",
         "soilpH": "",
-        "plant" : "Start seeds indoors in late winter to early spring when growing cold-hardy bunching varieties. Or, plant large sets close together and harvest the plants when young."
-        "feeding" : "Work an organic fertilizer into the soil prior to setting out seedlings or sets."
-        "spacing" : "Single Plants: (10cm) each way (minimum) Rows: (10cm) with 3 (10cm) row gap (minimum)"
-        "notes" : "Any immature onion can be eaten as a green onion, or scallion."
+        "plant" : "Start seeds indoors in late winter to early spring when growing cold-hardy bunching varieties. Or, plant large sets close together and harvest the plants when young.",
+        "feeding" : "Work an organic fertilizer into the soil prior to setting out seedlings or sets.",
+        "spacing" : "Single Plants: (10cm) each way (minimum) Rows: (10cm) with 3 (10cm) row gap (minimum)",
+        "notes" : "Any immature onion can be eaten as a green onion, or scallion.",
         "harvesting" : "Pull individual plants as you need them in the kitchen. With perennial bunching varieties, lift clumps in spring or fall and replant some of the divisions."
     },
  
@@ -222,10 +222,10 @@
         "sunExposure": "Part Sun",
         "soilType": "Loamy",
         "soilpH": "",
-        "plant" : "Start seeds indoors in early spring, or simply sow fresh seeds where you want them to grow. Scatter seeds atop prepared soil, about one-half inch apart, and barely cover them before patting them into place. Sow more seeds in summer for a fall crop."
-        "feeding" : "Not usually required."
-        "spacing" : "Single Plants:(10cm) each way (minimum) Rows:  (10cm) with  (15cm) row gap (minimum)
-        "notes" : "As lettuce seedlings grow, thin them so that the leaves of adjoining plants do not overlap. Mulch open space between plants to retain soil moisture and prevent weeds."
+        "plant" : "Start seeds indoors in early spring, or simply sow fresh seeds where you want them to grow. Scatter seeds atop prepared soil, about one-half inch apart, and barely cover them before patting them into place. Sow more seeds in summer for a fall crop.",
+        "feeding" : "Not usually required.",
+        "spacing" : "Single Plants:(10cm) each way (minimum) Rows:  (10cm) with  (15cm) row gap (minimum)",
+        "notes" : "As lettuce seedlings grow, thin them so that the leaves of adjoining plants do not overlap. Mulch open space between plants to retain soil moisture and prevent weeds.",
         "harvesting" : "You can pick individual leaves, use scissor or a knife to harvest handfuls of baby lettuce, or grow plants at proper spacing to get large, loose heads."
     },
  
